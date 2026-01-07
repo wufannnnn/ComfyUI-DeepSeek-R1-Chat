@@ -235,5 +235,3 @@ def chat_loop():
 if __name__ == "__main__":
     chat_loop()
 
-git config --global user.name "Wu Fan"
-git config --global user.email "wufan_0808@163.com"
